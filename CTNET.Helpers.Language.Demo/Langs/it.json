@@ -1,0 +1,19 @@
+{
+  "butAdd": "Aggiungi",
+  "butDelete": "Rimuovi",
+  "butRefresh": "Aggiorna",
+  "butSave": "Salva",
+  "butTranslate": "Traduci",
+  "butTranslateUI": "Traduci UI",
+  "frmSample1.Text": "Form di esempio 1",
+  "Generic.butAdd": "Aggiungi",
+  "Generic.butCancel": "Annulla",
+  "Generic.butDelete": "Elimina",
+  "Generic.butOK": "OK",
+  "Generic.butRemove": "Rimuovi",
+  "lblDictionary": "Dizionario",
+  "lblLanguage": "Lingua",
+  "lblNewText": "Nuovo",
+  "lblText": "Testo da tradurre",
+  "lblTranslation": "Traduzione"
+}

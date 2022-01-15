@@ -1,0 +1,20 @@
+{
+  "butAdd": "Add",
+  "butDelete": "Delete",
+  "butRefresh": "Refresh",
+  "butSave": "Save",
+  "butTranslate": "Translate",
+  "butTranslateUI": "Translate UI",
+  "frmSample1.Text": "Sample 1",
+  "Generic.butAdd": "Add",
+  "Generic.butCancel": "Cancel",
+  "Generic.butDelete": "Delete",
+  "Generic.butOK": "OK",
+  "Generic.butRemove": "Remove",
+  "lblDictionary": "Dictionary",
+  "lblLanguage": "Language",
+  "lblNewText": "Add Text",
+  "lblNewTranslation": "Translation",
+  "lblText": "Text to be translated",
+  "lblTranslation": "Translation"
+}
